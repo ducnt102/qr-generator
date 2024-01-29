@@ -1,0 +1,4 @@
+Pillow==9.5.0
+qrcode==7.4.2
+slack-bolt==1.18.0
+slack-sdk==3.23.0
