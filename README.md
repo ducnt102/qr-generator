@@ -1,2 +1,2 @@
 # qr-generator
-Create QR 
+Create QR for URL link
